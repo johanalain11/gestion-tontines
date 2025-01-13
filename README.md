@@ -4,7 +4,7 @@ Ce projet est une application avec interface graphique sur Access permettant la 
 
 ## Fonctionnalités
 
-![Fonctionnalités](./fonctionnalites.png "Gestion des tontines")
+![Fonctionnalités](./fontionnalites.png "Gestion des tontines")
 
 - Créer des tontines, réunions, membres.
 - Gérer les élections dans une tontine.
