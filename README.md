@@ -27,9 +27,9 @@ cd gestion-tontines
 ---
 ## Utilisation
 1. Lancez le programme.
-![Login](./login.jpg "Fenêtre de connexion")
+![Login](./login.JPG "Fenêtre de connexion")
 2. Connectez vous avec un identifiant valide (disponible dans README.txt).
-![Dashboard](./accueil.jpg "Page d'accueil")
+![Dashboard](./accueil.JPG "Page d'accueil")
 3. Choisir la catégorie à consulter dans le dashboard (tontine, réunion, membre, ...).
 ![Tontine](./tontine.png "Gestion des tontines")
 4. Choisir l'opération à effectuer sur une tontine par exemple :
@@ -43,7 +43,7 @@ cd gestion-tontines
 
 ---
 ## Exemple d'exécution
-![Exemple d'exécution](./reunion.jpg "Enregistrement d'une réunion")
+![Exemple d'exécution](./reunion.JPG "Enregistrement d'une réunion")
 
 ---
 ## Structure de données
